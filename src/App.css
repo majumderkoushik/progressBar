@@ -1,0 +1,13 @@
+.bo {
+  width: 70%; 
+  margin-left: 190px;
+ 
+}
+.co {
+  border-radius: 15px;
+  border: 1px solid gray;
+}
+.bar-co {
+  border-radius: 15px;
+  transition: transform .3s ease-in;
+}
